@@ -41,6 +41,7 @@ The following packages were added:
   com.unity.modules.vr@1.0.0
   com.unity.modules.wind@1.0.0
   com.unity.modules.xr@1.0.0
+<<<<<<< HEAD
 
 === Thu Dec  3 19:39:06 2020
 
@@ -65,3 +66,5 @@ The following packages were updated:
   com.unity.package-manager-ui from version 2.0.8 to 2.2.0
   com.unity.purchasing from version 2.0.3 to 2.0.6
   com.unity.textmeshpro from version 1.4.1 to 2.0.1
+=======
+>>>>>>> cd9049db35aed93387e5090a3c93e6e6e720be2d
